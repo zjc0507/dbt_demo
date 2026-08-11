@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: demo
+    database: demo
+    schema: DEMO.DBT_JZHANG
+    tables:
+      - name: bike
+      - name: weather
