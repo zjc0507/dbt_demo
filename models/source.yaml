@@ -7,3 +7,4 @@ sources:
     tables:
       - name: bike
       - name: t_weather
+      - name: stg_bike
