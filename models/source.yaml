@@ -3,7 +3,8 @@ version: 2
 sources:
   - name: demo
     database: demo
-    schema: DEMO.DBT_JZHANG
+    schema: DBT_JZHANG
     tables:
       - name: bike
-      - name: weather
+      - name: t_weather
+      - name: stg_bike
